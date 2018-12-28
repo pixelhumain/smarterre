@@ -9,7 +9,7 @@ Apporter de la croissance aux organisations locales avec une vision humaine,
 intégrer un projet de société locale pour les générations futures 
 qui prend en compte l’obsolescence et la finitude des ressources 
 
-Rejoignez nous pour en parler ici : [ROCKET CHAT DES COMMUNS](https://chat.initiative.place/channel/smarterre)
+Rejoignez nous pour en parler ici : [ROCKET CHAT DES COMMUNS](https://chat.communecter.org/channel/smarterre)
 
 ## Système d'intelligence territorial
 - Internet en Libre Acces	
