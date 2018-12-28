@@ -102,7 +102,7 @@ Wifi libre, FAI local, Salle serveur hébergement local
 Un espace de travail convivial pour créer, développer, inventer, échanger en toute liberté. 
 Des outils mis à dispositions pour être plus efficace: wifi, écrans, et pourquoi pas une bibliothèque collaborative
 
-## Réparali
+## Repair Café
 Réparer ses objets et ses appareils cassés. 
 Lutter contre l’obsolescence programmée 
 Faire des économies.
